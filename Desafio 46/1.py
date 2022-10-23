@@ -6,11 +6,11 @@ from collections import Counter
 
 palavras = linhas.split()
 tamanho = len(palavras)
-print("O texto tem : " + str(tamanho) + " palavras")
+print("O texto possui : " + str(tamanho) + " palavras")
 
 palavras = linhas.split('você')
 tamanho = len(palavras)
-print("O texto tem : " + str(tamanho) + ' "vocês"')
+print("O texto possui : " + str(tamanho) + ' "vocês"')
 
 
 
