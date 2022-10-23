@@ -1,6 +1,3 @@
-nvezes = 0
-p = 'você'
-
 with open('casmurro.txt', encoding='utf8') as livro:
     linhas = livro.read()
 
